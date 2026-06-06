@@ -78,13 +78,8 @@ When the arcane terminal goes dark, the Scribe engages in worldly and otherworld
 
 ---
 
-### 📊 Arcane Resonance
-![Clementine's GitHub stats](https://github-readme-stats.vercel.app/api?username=samexner&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
-
----
-
 ### 🦴 Summoning Circle
 * **Comm Link**: [clem@pendragon.systems](mailto:clem@pendragon.systems) 
 
 ---
-*“Trans rights are human rights. May your uptime be eternal.”*
+*Trans rights are human rights. No war but class war.*
