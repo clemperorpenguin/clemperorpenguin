@@ -48,7 +48,6 @@ When the arcane terminal goes dark, the Scribe engages in worldly and otherworld
 **Core Runes (Scripting & Machine Minds)**
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- ![Qwen](https://img.shields.io/badge/Qwen_VL-4B4B4B?style=for-the-badge&logo=alibabacloud&logoColor=white)
 
 **Platforms of Power (Realms & Hypervisors)**
 - ![Gentoo](https://img.shields.io/badge/Gentoo-blueviolet?style=for-the-badge&logo=gentoo&logoColor=white)
