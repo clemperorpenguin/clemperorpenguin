@@ -21,15 +21,15 @@ The Scribe focuses upon the sanctity of "Arcane Infrastructure" - the securing o
 
 **✨ The Scryer’s Lens (xian-vl)**
 > *Objective: Break the language barriers of the eastern realms.*
-> Developing a real-time OCR and translation layer in **Python** to decipher Chinese applications in the blink of an eye. Built on the foundation of the **lemonade-sdk**, it harnesses the raw arcane power of vision-language models like Qwen through subprojects such as **MAGE** and **NATE** to create a seamless bridge into the Chinese internet and gaming locales.
+> **🏆 Champion of the AMD Lemonade Developer Challenge.** A real-time OCR and translation layer in **Python** to decipher Chinese applications and game documentation in the blink of an eye. Built on the foundation of the **lemonade-sdk**, it harnesses the raw arcane power of vision-language models like Qwen through subprojects such as **MAGE** and **NATE** to create a seamless bridge into the Chinese internet and gaming locales.
 
 **🛡️ Gateway to the Ethereal Plane**
 > *Objective: Secure the fortress networks.*
 > Architecting complex virtualized routing through **OPNsense** and **Proxmox**. Solving the riddles of multi-tenant DHCP and routing to create a seamless, impenetrable infrastructure.
 
 **🐉 Wizard School**
-> *Objective: Commit the forbidden scrolls to memory and pass the wizarding test.*
-> Formal Proxmox training is scheduled for July, alongside taking the Linux Foundation Certified System Administrator (LFCS) exam in July.
+> *Objective: Earn the deeper runes.*
+> Preparing for the **Linux Foundation Certified System Administrator (LFCS)** trial, with formal Proxmox training this season. Between studies, descending into the true arcana - **NPU and kernel-level tinkering** on Strix Halo, learning to speak closer to the silicon.
 
 ---
 
@@ -57,8 +57,7 @@ When the arcane terminal goes dark, the Scribe engages in worldly and otherworld
 - ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
 **Wards & Relics (Infrastructure & Security)**
-- ![ZFS](https://img.shields.io/badge/ZFS-055086?style=for-the-badge)
-- ![LUKS](https://img.shields.io/badge/LUKS_Encryption-1A1A1A?style=for-the-badge&logo=linux&logoColor=white)
+- ![ROCm](https://img.shields.io/badge/ROCm-CC0000?style=for-the-badge&logo=amd&logoColor=white)
 - ![OPNsense](https://img.shields.io/badge/OPNsense-ED1C24?style=for-the-badge&logo=opnsense&logoColor=white)
 - ![WireGuard](https://img.shields.io/badge/WireGuard-881798?style=for-the-badge&logo=wireguard&logoColor=white)
 - ![Tailscale](https://img.shields.io/badge/Tailscale-FFFFFF?style=for-the-badge&logo=tailscale&logoColor=black)
